@@ -17,7 +17,7 @@ I am interested in developing intelligent and interpretable machine learning sys
 
 ## 🛠️ Technical Stack
 
-**Python · Scikit-learn · XGBoost · CatBoost · XAI · TensorFlow · PyTorch · Pandas · Flask · React**
+**Python · Scikit-learn · XAI · TensorFlow · PyTorch · Pandas · Flask · React**
 
 ## 📚 Research Interests
 
