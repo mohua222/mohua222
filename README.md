@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohua222
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning html,css,js
+- AI/ML Researcher | Explainable AI | Healthcare & Environmental AI | Python
 - 💞️ I’m working on AI, ML and Deep Learning ...
 - 📫 How to reach me by wp
 - 😄 Pronouns: ...
